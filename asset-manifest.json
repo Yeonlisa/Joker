@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joker/static/css/main.8d23dbb8.css",
+    "main.js": "/Joker/static/js/main.8fd03382.js",
+    "index.html": "/Joker/index.html",
+    "main.8d23dbb8.css.map": "/Joker/static/css/main.8d23dbb8.css.map",
+    "main.8fd03382.js.map": "/Joker/static/js/main.8fd03382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d23dbb8.css",
+    "static/js/main.8fd03382.js"
+  ]
+}
